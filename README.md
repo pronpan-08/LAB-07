@@ -57,6 +57,9 @@ Maximum Value :2147483647
 คำสั่งสำหรับการทดลอง
 ให้นักศึกษา เขียนโปรแกรมคล้ายกับตัวอย่างที่ 1 โดยมีชนิดข้อมูลเป็น byte, char, bool, sbyte, short, ushort, uint, float, double, decimal, long และ ulong
 
+
+![](https://github.com/pronpan-08/LAB-07/blob/master/lab7-1.png?raw=true)
+
 **หมายเหตุ**
  
 ชนิดข้อมูล ```bool``` เก็บข้อมูลได้เฉพาะ ```true``` และ ```false``` ไม่ต้องหา ```MinValue``` และ ```MaxValue```
@@ -119,6 +122,8 @@ namespace RandomNumber
 
 1. ให้พิมพ์ค่าตัวแปร boolean ในข้อ 3 ออกทางหน้าจอ
 
+
+![](https://github.com/pronpan-08/LAB-07/blob/master/lab7_bloon1joy.png?raw=true)
 
 ##การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ
 
@@ -210,6 +215,7 @@ namespace thruthTable
 5. NOR
 6. Exclusive OR
 ```
+![](https://github.com/pronpan-08/LAB-07/blob/master/lab7_2joy.png?raw=true)
 
 
 
@@ -252,6 +258,8 @@ public class intergerTest
 9.	y%8
 10.	100*x+y%2-a
 ```
+![](https://github.com/pronpan-08/LAB-07/blob/master/lab7_3joy.png?raw=true)
+
 ##2.2.3. ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 ตัวเลขจำนวนทศนิยม มักจะใช้ในการคำนวณทางวิทยาศาสตร์ เนื่องจากค่าในวิทยาศาสตร์ต้องการความละเอียดสูง หรือมีค่าสูงมากกว่าที่เลขจำนวนเต็มจะเก็บได้
 
@@ -288,6 +296,9 @@ namespace variableProperties
 }
 ```
 ผลที่ได้จากโปรแกรม
+
+![](https://github.com/pronpan-08/LAB-07/blob/master/lab7_4joy.png?raw=true)
+
 ```
 Light speed = 186000 Mile Per second
 Light speed = 299337.984 km Per second
@@ -362,9 +373,15 @@ The sine of       6.00 = -0.279415         *
 
 ##การทดลอง พล็อตรูปคลื่นทางคณิตศาสตร์
 จากโปรแกรมตัวอย่าง ให้ดัดแปลงโปรแกรมเพื่อวาดรูปคลื่นดังต่อไปนี้
-```
+
 1.	y = x2
+
+![](https://github.com/pronpan-08/LAB-07/blob/master/lab7_5joy.png?raw=true)
+
 2.	y = cos(x)
+
+![](https://github.com/pronpan-08/LAB-07/blob/master/lab7_6joy.png?raw=true)
+
 3.	y = tan(x)
-```
-	
+
+![](https://github.com/pronpan-08/LAB-07/blob/master/lab7_7joy.png?raw=true)
